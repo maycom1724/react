@@ -1,8 +1,8 @@
 import React from "react";
-import NavBar from "./components/NavBar";
-import Home from "./compenents/Home";
-import escola from "./compenents/Escola";
-import SobreMim from "./components/SobreMim";
+import NavBar from "./componenets/Navbar";
+import Home from "./componenets/Home";
+import escola from "./componenets/escola";
+import SobreMim from "./componenets/sobreMiM";
 import "./index.css";
 
 export default function App() {
